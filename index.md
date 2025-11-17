@@ -1,8 +1,16 @@
+<nav style="background:#f8f8f8; padding:10px 15px; border-radius:10px; margin-bottom:20px; border:1px solid #ddd;">
+  <a href="/" style="margin-right:15px; text-decoration:none; font-weight:bold;">Home</a>
+  <a href="#data-sources" style="margin-right:15px; text-decoration:none;">Data Sources</a>
+  <a href="#wheres-schueller" style="margin-right:15px; text-decoration:none;">Where's Schueller?</a>
+</nav>
+
+
 # My Github Page
 
 This page is for discovering project topics and visualizations for later data analysis. 
 
-## Data Sources and Project Ideas
+## <a id="data-sources"></a>Data Sources and Project Ideas
+
 
 Here are five datasets I’m interested in exploring, along with ideas for possible analyses.
 
@@ -56,7 +64,7 @@ Here are five datasets I’m interested in exploring, along with ideas for possi
 
 ---
 
-## Where's Schueller?
+## <a id="wheres-schueller"></a>Where's Schueller?
 
 Below is a live, interactive Plotly visualization generated from geolocation data.
 
