@@ -1,3 +1,4 @@
 theme: minima
+markdown: kramdown
 title: My Github Page
 description: Personal site for projects and data analysis (Homework 05)
