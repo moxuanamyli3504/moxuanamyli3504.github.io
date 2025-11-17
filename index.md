@@ -56,11 +56,18 @@ Here are five datasets I’m interested in exploring, along with ideas for possi
 
 ---
 
-import plotly.io as pio
-pio.write_html(fig, "whereschueller.html", full_html=False, include_plotlyjs='cdn')
+## Where's Schueller?
 
+Below is a live, interactive Plotly visualization generated from geolocation data.
 
-
+<div style="border: 1px solid #ccc; padding: 10px; border-radius: 10px;">
+    <iframe 
+        src="whereschueller.html" 
+        width="100%" 
+        height="600"
+        style="border:none;">
+    </iframe>
+</div>
 
 
 
