@@ -1,4 +1,10 @@
 theme: minima
 markdown: kramdown
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  parse_block_html: true
+
 title: My Github Page
 description: Personal site for projects and data analysis (Homework 05)
