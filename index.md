@@ -60,12 +60,14 @@ Here are five datasets I’m interested in exploring, along with ideas for possi
 
 Below is a live, interactive Plotly visualization generated from geolocation data.
 
-<iframe 
-src="https://moauxnamyli3504.github.io/whereschueller.html"
-width="100%"
-height="600"
-style="border:none;">
-</iframe>
+<div style="border: 1px solid #ccc; padding: 10px; border-radius: 10px;">
+    <iframe 
+        src="whereschueller.html" 
+        width="100%" 
+        height="600"
+        style="border:none;">
+    </iframe>
+</div>
 
 
 
